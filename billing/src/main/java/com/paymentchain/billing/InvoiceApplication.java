@@ -12,6 +12,7 @@ import org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfi
 public class InvoiceApplication {
     /**
      * gitjub auto 1
+     * githuv auto 2
      * 
      * @param args
      */
